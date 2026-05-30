@@ -4,7 +4,7 @@
 
 # Rijwan Ansari
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=00D4AA&center=true&vCenter=true&width=560&lines=Physics+Postgraduate+%F0%9F%94%AD;Quantum+Computing+Researcher+%E2%9A%9B%EF%B8%8F;Full-Stack+Web+%26+App+Developer+%F0%9F–%96%A5%EF%B8%8F;AI+%26+ML+Engineer+%F0%9F%A4%96;Scientific+Instrument+Designer+%F0%9F%94%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=00D4AA&center=true&vCenter=true&width=560&lines=Physics+Postgraduate+%F0%9F%94%AD;Quantum+Computing+Researcher+%E2%9A%9B%EF%B8%8F;Full-Stack+Web+%26+App+Developer+%F0%9F%96%A5%EF%B8%8F;AI+%26+ML+Engineer+%F0%9F%A4%96;Scientific+Instrument+Designer+%F0%9F%94%AC)](https://git.io/typing-svg)
 
 *Bridging the quantum world and the digital one — from spectroscopes to cryptographic protocols.*
 
@@ -74,7 +74,6 @@ I'm a **Physics postgraduate** (M.Sc. @ Nagaon University) sitting at the inters
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Orange](https://img.shields.io/badge/Orange_3.0-FF6600?style=flat-square&logoColor=white)
 
 ### 🌐 Web & App Development
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -144,17 +143,6 @@ Full-stack cross-platform app (Desktop + Web) built for Karbi Anglong Autonomous
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rijj1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Period | Score |
-|--------|------------|--------|-------|
-| 🎓 M.Sc. Physics | Nagaon University | 2024 – 2026 | Pursuing |
-| 🏅 B.Sc. Physics | Nowgong College (Autonomous) | 2020 – 2023 | CGPA 8.24 |
-| 📘 Higher Secondary (Science) | Renaissance Junior College | 2018 – 2020 | 83.4% |
-| 📗 Matriculation | St. Thomas English School | – 2018 | 90.5% |
 
 ---
 
