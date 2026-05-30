@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/109093010?v=4" width="110" style="border-radius:50%"/>
+<!-- <img src="https://avatars.githubusercontent.com/u/109093010?v=4" width="110" style="border-radius:50%"/> -->
 
 # Rijwan Ansari
 
@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rijwan-ansari-a75bb1244)
 [![Email](https://img.shields.io/badge/rijwan782427%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rijwan.physics@gmail.com)
-[![Twitter](https://img.shields.io/badge/@Rijj1_-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](#)
+[![X](https://img.shields.io/badge/@Rijj1_-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](#)
 
 </div>
 
