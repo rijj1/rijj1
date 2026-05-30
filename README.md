@@ -8,10 +8,9 @@
 
 *Bridging the quantum world and the digital one — from spectroscopes to cryptographic protocols.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rijwan-ansari-a75bb1244)
 [![Email](https://img.shields.io/badge/rijwan782427%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rijwan.physics@gmail.com)
-[![X](https://img.shields.io/badge/@Rijj1_-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](#)
+[![X](https://img.shields.io/badge/@Rijj1_-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://x.com/_Rijj1)
 
 </div>
 
